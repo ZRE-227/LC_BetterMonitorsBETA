@@ -1,0 +1,10 @@
+{
+    "name": "LC_BetterMonitors",
+    "version_number": "2.0.0",
+    "website_url": "",
+    "description": "make the ship's monitors to display information and the player's perspective instead of just sitting there being useless",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "2018-LC_API-3.4.5"
+    ]
+}
